@@ -2,10 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Windows.Forms; //for messagebox
-//Author: Scott Wolfskill
-//Created      12/05/15
-//Last edited  12/11/15
+using System.Windows.Forms; //for MessageBox debug
 namespace LargeNumberCalculator
 {
     class LargeInt
